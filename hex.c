@@ -15,5 +15,5 @@ int main(int argc, char **argv) {
   printf("Binary: 0b%lb\n", decimal_value);
   printf("Decimal: %ld\n", decimal_value);
 
-	return 0;
+  return 0;
 }
